@@ -4,8 +4,6 @@
     <br>
   </h1>
   <img src="https://github.com/dasturbek/English-Pair-Words-flutter/blob/main/img.jpg" width=50% align="center"><br> 
+  <br><br>
+  - [Download Apk file and install](https://docs.flutter.dev/get-started/codelab](https://github.com/dasturbek/English-Pair-Words-flutter/blob/main/app-release.apk))
 </div>
-
-- [Download Apk file and install](https://docs.flutter.dev/get-started/codelab](https://github.com/dasturbek/English-Pair-Words-flutter/blob/main/app-release.apk))
-
-
